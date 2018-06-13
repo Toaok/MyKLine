@@ -1,0 +1,351 @@
+<resources>
+    <string name="app_name">MyKLine</string>
+    <string name="action_settings">Settings</string>
+    <string name="login_name">登 录</string>
+    <string name="reisg_name">注 册</string>
+    <string name="mailbox_name">邮箱</string>
+
+    <string name="getverif_code">获取验证码</string>
+    <string name="xieyi_code">我同意IDAX </string>
+    <string name="xieyi_code_2">用户协议</string>
+
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="input_em_text">请输入您的邮箱</string>
+    <string name="input_ya_text">请输入验证码</string>
+    <string name="input_password_text">设置密码</string>
+    <string name="input_qr_password_text">确认密码</string>
+    <string name="input_yaoq_text">输入邀请码(选填)</string>
+    <string name="regis_success">注册成功!</string>
+    <string name="mairu_text">买入</string>
+    <string name="maichu_text">卖出</string>
+    <string name="maimaicord">买卖单</string>
+    <string name="date_chengjiao">最新成交</string>
+    <string name="price">价格</string>
+    <string name="count">数量</string>
+    <string name="turnover">成交额</string>
+
+    <string name="qingbuyao">请不要透露密码、短信和谷歌验证码给任何人。</string>
+    <string name="yaoqing_hy">邀请好友</string>
+    <string name="goole_yz">谷歌验证</string>
+    <string name="sf_yz">身份认证</string>
+    <string name="dx_yz">短信验证</string>
+    <string name="setting">设置</string>
+    <string name="yikaiqi">已开启</string>
+    <string name="weirz">未认证</string>
+    <string name="weikq">未开启</string>
+    <string name="my_invitation">我的邀请码</string>
+    <string name="my_invitation_url">我的邀请链接</string>
+    <string name="my_invitation_text">我的邀请</string>
+    <string name="update_password">修改密码</string>
+    <string name="yuyan">语言</string>
+    <string name="user_xiey">用户协议</string>
+    <string name="yinsi_zc">隐私政策</string>
+    <string name="lianxi_my">联系我们</string>
+    <string name="guanyu">关于</string>
+    <string name="exit">退出</string>
+    <string name="yiyaoqhy">已邀请的好友</string>
+    <string name="yihuodeyouj">已获得的佣金估值</string>
+    <string name="google_verif">谷歌验证码</string>
+    <string name="sumit_btn">提交</string>
+    <string name="assets_text">资产估值</string>
+    <string name="chongz_text">充值</string>
+    <string name="tixian_text">提现</string>
+    <string name="bi_type">币种</string>
+    <string name="key_yue">可用余额</string>
+    <string name="dongj_count">冻结数额</string>
+    <string name="confirm_btn">确认</string>
+    <string name="xzbtype">请选择币种</string>
+    <string name="cancel_text">取消</string>
+    <string name="bzerweima">保存二维码</string>
+    <string name="fz_text">已成功复制到剪切板</string>
+    <string name="button_ok">OK</string>
+    <string name="viewfinderview_status_text1">将二维码/条码放入取景框内</string>
+    <string name="viewfinderview_status_text2">即可自动扫描</string>
+    <string name="msg_camera_framework_bug">Sorry, the Android camera encountered a problem. You may need to restart the device.</string>
+    <string name="chongz_count">充值数量:</string>
+    <string name="chongz_stat_c">充值状态:</string>
+    <string name="tix_count">提现数量:</string>
+    <string name="tix_stat_c">提现状态:</string>
+    <string name="tiem_text">时间</string>
+    <string name="shic_text">市场</string>
+    <string name="price_chengj">价格/成交均价</string>
+    <string name="count_cj_text">数量/成交数量</string>
+    <string name="currentent_tishi">取消后可在历史委托中查看记录确认取消?</string>
+    <string name="ok_text">好</string>
+    <string name="choice_text">当前选择:</string>
+    <string name="input_guanj_text">请输入关键字搜索</string>
+    <string name="add_option">添加自选</string>
+    <string name="em_text">service@idax.mn</string>
+    <string name="teleg_text">Telegram</string>
+    <string name="facebook_text">Facebook</string>
+    <string name="twitter_text">Twitter</string>
+    <string name="gs_address">©2018 IDAX.MN ALL Rights Reserved</string>
+    <string name="input_phone_h">请输入手机号</string>
+    <string name="input_yanz_ma">请输入验证码</string>
+    <string name="input_password">请输入密码</string>
+    <string name="que_ding">确定</string>
+
+    <!--2018-3-29-->
+    <string name="login_password">密码</string>
+    <string name="login_forget_password">忘记密码?</string>
+
+    <string name="reset_password">重置密码</string>
+
+    <!--2018-3-30-->
+
+    <!--主页面-->
+    <string name="market">市场</string>
+    <string name="transaction">交易</string>
+    <string name="assets">资产</string>
+    <string name="user_center">我的</string>
+    <string name="dialog_loading">加载中...</string>
+    <string name="protocol_pidding">、</string>
+    <string name="version">版本:</string>
+    <string name="email_format">您输入的邮箱格式不正确,请重新输入!!!</string>
+    <string name="reset_password_text">--IDAX平台已向你的注册邮箱中发送了一封重置密码邮件，请使用邮件中6位数验证码进行重置密码。\n\n--如果长时间没有收到邮件，请尝试在垃圾邮件中进行查找。</string>
+
+    <!--市场-->
+    <string name="market_volume">市场/成交量</string>
+    <string name="market_new_price">最新价</string>
+    <string name="market_rise_fall">24H涨跌</string>
+
+    <string name="market_btc">BTC</string>
+    <string name="market_eth">ETH</string>
+    <string name="market_cny">CNY</string>
+    <string name="market_favorites">自选</string>
+
+    <!--交易-->
+
+    <string name="transaction_purchase">买入</string>
+    <string name="transaction_sell_out">卖出</string>
+    <string name="transaction_current_orders">当前委托</string>
+    <string name="transaction_historical_orders">历史委托</string>
+
+    <string name="transaction_purchase_price">价格</string>
+    <string name="transaction_purchase_limited_sale">限价买卖</string>
+    <string name="transaction_purchase_valuation">估值</string>
+    <string name="transaction_purchase_total">总额</string>
+    <string name="transaction_purchase_available_balance">可用余额</string>
+    <!--资金-->
+
+    <string name="assets_record">记录</string>
+
+    <string name="assets_display_all_assets">显示全部资产</string>
+    <string name="assets_hide_assets">隐藏余额为0的资产</string>
+
+    <string name="assets_user_wallet">账户钱包</string>
+
+    <string name="assets_input_keyword">输入关键字搜索</string>
+
+    <string name="assets_recharge_and_present_record">充值提现记录</string>
+    <string name="assets_recharge_record">充值记录</string>
+    <string name="assets_present_record">提现记录</string>
+    <string name="assets_details_of_recharge">充值详情</string>
+
+    <!--用户-->
+    <string name="my_unopened">未开启</string>
+    <string name="my_already_opened">已开启</string>
+    <string name="my_uncertified">未认证</string>
+    <string name="my_application">申请中</string>
+    <string name="my_already_passed">已通过</string>
+    <string name="my_have_refused">已拒绝</string>
+
+    <string name="my_bind_phone">绑定手机</string>
+    <string name="my_unbundling_phone">解绑手机</string>
+    <string name="my_setting">设置</string>
+    <string name="my_setting_modify_password">修改密码</string>
+    <string name="my_setting_input_old_password">请输入当前密码</string>
+    <string name="my_setting_input_new_password">请输入新密码</string>
+    <string name="my_setting_confirm_new_password">请再次输入新密码</string>
+    <string name="my_setting_about_us">关于我们</string>
+
+
+    <!--2018-4-3-->
+
+    <string name="assets_recharge_record_address">地址</string>
+    <string name="assets_give_details">提现详情</string>
+    <string name="shop_link_volume">成交量</string>
+    <string name="shop_link_highest_price">最高价</string>
+    <string name="shop_link_minimum_price">最低价</string>
+    <string name="start_page_digital_asset_trading_center">数字资产交易中心</string>
+    <string name="security_verification">安全验证</string>
+    <string name="google_authenticator">谷歌验证</string>
+    <string name="sms_verification">短信验证</string>
+
+    <string name="shop_link_time_share_chart">分时图</string>
+    <string name="shop_link_time_share">分时</string>
+    <string name="shop_link_one_min">1分</string>
+    <string name="shop_link_five_min">5分</string>
+    <string name="shop_link_quarter">15分</string>
+    <string name="shop_link_thirty_min">30分</string>
+    <string name="shop_link_one_hour">1小时</string>
+    <string name="shop_link_tow_hour">2小时</string>
+    <string name="shop_link_four_hour">4小时</string>
+    <string name="shop_link_six_hour">6小时</string>
+    <string name="shop_link_twelve_hour">12小时</string>
+
+
+    <string name="transaction_recharge_can_use">可用</string>
+    <string name="transaction_recharge_frozen">冻结</string>
+    <string name="transaction_recharge_can_use_">可用:</string>
+    <string name="transaction_recharge_frozen_">冻结:</string>
+    <string name="transaction_recharge_copy_address">复制地址</string>
+
+    <string name="transaction_amount_of_cash">提现数额</string>
+    <string name="transaction_input_present_amount_of_cash">请输入提现数额</string>
+    <string name="transaction_full_presentation">全部提现</string>
+    <string name="transaction_input_address">输入地址</string>
+
+    <string name="transaction_recharge_display_qr_code">显示二维码</string>
+    <string name="transaction_service_charge">手续费:</string>
+    <string name="transaction_have_been_cancelled">已取消</string>
+
+    <string name="test">测试</string>
+
+    <string name="btc_recharge_address">BTC充值地址</string>
+    <string name="camera_scan">扫一扫</string>
+
+
+    <!--2018-4-8-->
+    <string name="language">语言选择</string>
+    <string name="lang_zh">中文</string>
+    <string name="lang_us">English</string>
+    <string name="count_ada">数量</string>
+    <string name="verification_code_have_send">验证码已发送</string>
+    <string name="renew_get">重新获取验证码</string>
+    <string name="renew_send">60秒后可重新发送</string>
+    <string name="enter_sms_verification_code">请输入您的短信验证码</string>
+    <string name="enter_google_verification_code">请输入谷歌验证码</string>
+    <string name="phone_untie_successfully">手机解绑成功</string>
+    <string name="phone_binding_successful">手机绑定成功</string>
+    <string name="number_format_not_correct">手机号格式不正确</string>
+    <string name="service_charge">手续费：</string>
+
+
+    <!--2018-4-9-->
+    <string name="buy">(买)</string>
+    <string name="sell">(卖)</string>
+    <string name="total">总数</string>
+    <string name="hava_handle">已成交</string>
+    <string name="have_cancel">已取消</string>
+    <string name="history_entrust_count">历史委托数量</string>
+    <string name="buy_price">请输入购买价格</string>
+    <string name="buy_count">请输入购买数量</string>
+    <string name="buy_success">买入成功</string>
+
+    <string name="sell_price">请输卖出买价格</string>
+    <string name="sell_count">请输卖出买数量</string>
+    <string name="sell_success">卖出成功</string>
+
+    <!--2018-4-10-->
+    <string name="request_faild">请求失败</string>
+    <string name="favorite_cancle_success">自选取消成功</string>
+    <string name="favorite_add_success">自选添加成功</string>
+    <string name="look_txid">查看Txid</string>
+    <string name="tow_password_not_same">你两次输入的密码不一致</string>
+
+    <!--2018-4-12-->
+    <string name="delet_option">删除自选</string>
+    <string name="shop_link_day_line">日线</string>
+    <string name="shop_link_week_link">周线</string>
+    <string name="shop_link_k_line">K线</string>
+    <string name="shop_link_depth">深度图</string>
+
+
+    <!--2018-4-13-->
+    <string name="Please_go_to_IDAX_PC">请前往IDAX官网（www.idax.mn）完成谷歌二次验证设置</string>
+    <string name="Please_go_to_IDAX_PC_website">请前往IDAX官网\t\twww.idax.mn\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t完成身份验证设置</string>
+    <string name="Got_it">我知道了</string>
+
+
+    <!--2018-4-13-->
+    <string name="data_curr">您目前还没有委托交易</string>
+    <string name="data_curr1">还不来做一笔大交易</string>
+    <string name="chose_google_verifity">切换谷歌验证</string>
+    <string name="chose_sms_verifity">切换短信验证</string>
+    <string name="no_recharge_record">暂无充值记录</string>
+    <string name="no_present_record">暂无提现记录</string>
+
+    <!--2018-4-15-->
+    <string name="scan_success">扫描成功</string>
+    <string name="code_repl_success">邀请码复制成功</string>
+    <string name="link_repl_success">邀请链接复制成功</string>
+    <string name="balance_cannot_presented">可用余额为0,不能提现</string>
+    <string name="amount_of_cash">请输入提现数量</string>
+    <string name="present_address">请输入提现地址</string>
+    <string name="bring_up_success">提现成功</string>
+
+    <!--2018-4-16-->
+    <string name="exit_system">再按一次退出程序</string>
+    <string name="no_recharge_address">没有充值地址</string>
+    <string name="erweima_have_save">二维码已保存到相册</string>
+    <string name="recharge_address">充值地址</string>
+
+
+    <!--2018-4-17-->
+    <string name="feed_back">意见反馈</string>
+    <string name="give_your_valuable_advice">请提出你的宝贵意见！(不少于15个字)</string>
+    <string name="words_is_less">字数少于150字...</string>
+    <string name="fk_info_hava_send">反馈信息已提交</string>
+    <string name="send_faile">提交失败</string>
+
+
+    <!--toast info-->
+    <string name="enter_your_authentication">请输入验证码</string>
+    <string name="enter_your_email">请输入你的邮箱</string>
+    <string name="enter_your_password">请输入密码</string>
+    <string name="your_email_or_password_erro">你的邮箱或密码不正确</string>
+    <string name="google_authentication_code_erro">谷歌验证码输入不正确</string>
+    <string name="sms_authentication_code_erro">短信验证码输入不正确</string>
+    <string name="password_min_length">密码至少为6位字符</string>
+    <string name="current_password_error">原密码输入不正确 </string>
+    <string name="new_password_not_same_current_password">新密码不能和原密码相同</string>
+    <string name="modify_success">修改成功</string>
+    <string name="modify_faild">修改失败</string>
+
+    <!-- K线-->
+    <string name="k_o">开</string>
+    <string name="k_c">收</string>
+    <string name="k_h">高</string>
+    <string name="k_l">低</string>
+    <string name="k_v">量</string>
+    <string name="k_t">额</string>
+    <string name="k_change">涨幅:</string>
+    <string name="k_deal">成交:</string>
+    <string name="k_avg">均价:</string>
+
+    <!--用户协议-->
+    <string name="user_agreement">https://m.idax.mn/#/agreement?lang=zh_cn#038isapp=1</string>
+    <!--隐私政策-->
+    <string name="privacy_policy">https://m.idax.mn/#/privacy?lang=zh_cn#038isapp=1</string>
+    <!--相册 -->
+    <string name="Album_str">相册</string>
+    <!--跳过 -->
+    <string name="skip_str">跳过</string>
+
+    <!--同意协议-->
+    <string name="agree_our_policy">请勾选用户协议和隐私政策。</string>
+
+
+
+    <!--改版添加-->
+    <string name="immediate_registration">立即注册</string>
+    <string name="save_to_phone">保存二维码至相册</string>
+    <string name="volume">成交量</string>
+
+    <string name="choice_country">选择国家和地区</string>
+    <string name="zhong_guo">China</string>
+    <string name="securfty_parice">输入价格超出安全值，是否继续下单</string>
+    <string name="min_amount">最小交易额为：</string>
+    <string name="max_amount">最大交易额为：</string>
+    <string name="remarks">备注</string>
+    <string name="sms_verif">短信验证码</string>
+
+    <string name="low_withdraw_amount">最低提币额为：</string>
+    <string name="max_withdraw_amount">最高提币额：</string>
+</resources>

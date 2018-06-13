@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipChildren="false">
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <RelativeLayout
+        android:id="@+id/relative_layout"
+        android:layout_width="match_parent"
+        android:layout_height="100px"
+        android:layout_below="@id/spinner">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true">
+
+            <TextView
+                android:id="@+id/fenshi_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/shop_link_time_share" />
+
+            <TextView
+                android:id="@+id/one_min"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/shop_link_one_min" />
+
+            <TextView
+                android:id="@+id/day_line"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/shop_link_day_line" />
+
+            <TextView
+                android:id="@+id/klin_view"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/shop_link_k_line" />
+
+            <TextView
+                android:id="@+id/depthmap_view"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/shop_link_depth" />
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <com.example.klinelib.chart.KLineView
+        android:id="@+id/kline"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_below="@id/relative_layout" />
+
+    <com.example.klinelib.chart.TimeLineView
+        android:id="@+id/fenshi_line"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_below="@id/relative_layout"
+        android:visibility="gone"
+        />
+</RelativeLayout>
